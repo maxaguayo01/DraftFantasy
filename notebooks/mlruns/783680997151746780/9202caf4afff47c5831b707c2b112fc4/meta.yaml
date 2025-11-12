@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/9202caf4afff47c5831b707c2b112fc4/artifacts
+end_time: 1762923219228
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: 9202caf4afff47c5831b707c2b112fc4
+run_name: nebulous-mink-522
+run_uuid: 9202caf4afff47c5831b707c2b112fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762923219062
+status: 3
+tags: []
+user_id: josealmendarez

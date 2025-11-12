@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/dfadb13f7622432b89d3ce9dcfe0a1ce/artifacts
+end_time: 1762923219057
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: dfadb13f7622432b89d3ce9dcfe0a1ce
+run_name: resilient-gnat-730
+run_uuid: dfadb13f7622432b89d3ce9dcfe0a1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762923218789
+status: 3
+tags: []
+user_id: josealmendarez

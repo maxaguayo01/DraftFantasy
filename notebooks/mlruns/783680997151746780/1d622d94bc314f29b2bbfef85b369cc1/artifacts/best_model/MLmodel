@@ -1,0 +1,54 @@
+artifact_path: best_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 5133409
+model_uuid: 1a77831665364365a7f1c4cfc788ab8d
+run_id: 1d622d94bc314f29b2bbfef85b369cc1
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_payload.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Rank", "required": true}, {"type": "string",
+    "name": "Player", "required": true}, {"type": "double", "name": "SACK", "required":
+    false}, {"type": "double", "name": "INT", "required": false}, {"type": "double",
+    "name": "FR", "required": false}, {"type": "double", "name": "FF", "required":
+    false}, {"type": "double", "name": "DEF TD", "required": false}, {"type": "double",
+    "name": "SFTY", "required": false}, {"type": "double", "name": "SPC TD", "required":
+    false}, {"type": "double", "name": "G", "required": true}, {"type": "double",
+    "name": "FPTS/G", "required": true}, {"type": "string", "name": "ROST", "required":
+    true}, {"type": "string", "name": "Position", "required": true}, {"type": "double",
+    "name": "FG", "required": false}, {"type": "double", "name": "FGA", "required":
+    false}, {"type": "double", "name": "PCT", "required": false}, {"type": "double",
+    "name": "LG", "required": true}, {"type": "double", "name": "1-19", "required":
+    false}, {"type": "double", "name": "20-29", "required": false}, {"type": "double",
+    "name": "30-39", "required": false}, {"type": "double", "name": "40-49", "required":
+    false}, {"type": "double", "name": "50+", "required": false}, {"type": "double",
+    "name": "XPT", "required": false}, {"type": "double", "name": "XPA", "required":
+    false}, {"type": "double", "name": "CMP", "required": false}, {"type": "double",
+    "name": "ATT", "required": true}, {"type": "double", "name": "YDS", "required":
+    true}, {"type": "double", "name": "Y/A", "required": true}, {"type": "double",
+    "name": "TD", "required": true}, {"type": "double", "name": "SACKS", "required":
+    false}, {"type": "double", "name": "ATT.1", "required": false}, {"type": "double",
+    "name": "YDS.1", "required": true}, {"type": "double", "name": "TD.1", "required":
+    true}, {"type": "double", "name": "FL", "required": true}, {"type": "double",
+    "name": "20+", "required": true}, {"type": "double", "name": "TGT", "required":
+    true}, {"type": "double", "name": "REC", "required": true}, {"type": "double",
+    "name": "Y/R", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2025-11-12 04:53:40.717797'

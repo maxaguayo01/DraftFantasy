@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/dd2fc6c93b1a44148feac27bd530b574/artifacts
+end_time: 1762923220338
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: dd2fc6c93b1a44148feac27bd530b574
+run_name: rare-fawn-602
+run_uuid: dd2fc6c93b1a44148feac27bd530b574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762923219965
+status: 3
+tags: []
+user_id: josealmendarez

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/a142d0ed36b24691b2c604ee98a39b54/artifacts
+end_time: 1762922861364
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: a142d0ed36b24691b2c604ee98a39b54
+run_name: zealous-eel-382
+run_uuid: a142d0ed36b24691b2c604ee98a39b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922861062
+status: 3
+tags: []
+user_id: josealmendarez

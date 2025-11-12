@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/ad48495e67e6472cbd119f2caf47caaa/artifacts
+end_time: 1762922860603
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: ad48495e67e6472cbd119f2caf47caaa
+run_name: welcoming-bass-433
+run_uuid: ad48495e67e6472cbd119f2caf47caaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922860104
+status: 3
+tags: []
+user_id: josealmendarez

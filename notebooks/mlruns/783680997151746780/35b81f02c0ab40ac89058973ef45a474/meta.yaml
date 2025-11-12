@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/35b81f02c0ab40ac89058973ef45a474/artifacts
+end_time: 1762922933436
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: 35b81f02c0ab40ac89058973ef45a474
+run_name: sincere-skunk-485
+run_uuid: 35b81f02c0ab40ac89058973ef45a474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922933332
+status: 3
+tags: []
+user_id: josealmendarez

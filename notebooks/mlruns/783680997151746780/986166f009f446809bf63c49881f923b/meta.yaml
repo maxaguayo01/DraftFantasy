@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/986166f009f446809bf63c49881f923b/artifacts
+end_time: 1762922934639
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: 986166f009f446809bf63c49881f923b
+run_name: crawling-cat-413
+run_uuid: 986166f009f446809bf63c49881f923b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922934392
+status: 3
+tags: []
+user_id: josealmendarez

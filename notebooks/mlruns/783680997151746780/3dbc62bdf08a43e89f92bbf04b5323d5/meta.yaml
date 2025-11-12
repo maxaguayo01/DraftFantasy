@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/3dbc62bdf08a43e89f92bbf04b5323d5/artifacts
+end_time: 1762923048645
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: 3dbc62bdf08a43e89f92bbf04b5323d5
+run_name: shivering-stork-218
+run_uuid: 3dbc62bdf08a43e89f92bbf04b5323d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762923048292
+status: 3
+tags: []
+user_id: josealmendarez

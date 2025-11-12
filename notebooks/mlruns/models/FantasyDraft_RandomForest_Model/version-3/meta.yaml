@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762923030308
+current_stage: None
+description: null
+last_updated_timestamp: 1762923030308
+name: FantasyDraft_RandomForest_Model
+run_id: 52203eed6b284d75848ded360c26d451
+run_link: null
+source: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/52203eed6b284d75848ded360c26d451/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/52203eed6b284d75848ded360c26d451/artifacts/best_model
+user_id: null
+version: 3

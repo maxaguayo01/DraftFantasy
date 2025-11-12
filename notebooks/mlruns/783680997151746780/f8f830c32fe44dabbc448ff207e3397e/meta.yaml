@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/f8f830c32fe44dabbc448ff207e3397e/artifacts
+end_time: 1762922867211
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: f8f830c32fe44dabbc448ff207e3397e
+run_name: randomforest_FantasyDraft_training
+run_uuid: f8f830c32fe44dabbc448ff207e3397e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922858737
+status: 3
+tags: []
+user_id: josealmendarez

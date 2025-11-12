@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/DraftFantasy/notebooks/mlruns/783680997151746780/6655c205f9d34b19bde9c6efe969a222/artifacts
+end_time: 1762922860100
+entry_point_name: ''
+experiment_id: '783680997151746780'
+lifecycle_stage: active
+run_id: 6655c205f9d34b19bde9c6efe969a222
+run_name: thundering-shad-46
+run_uuid: 6655c205f9d34b19bde9c6efe969a222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762922859895
+status: 3
+tags: []
+user_id: josealmendarez
