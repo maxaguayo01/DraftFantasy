@@ -1,0 +1,3 @@
+mlflow==3.6.0
+mlflow_skinny==3.6.0
+mlflow_tracing==3.6.0
