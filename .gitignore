@@ -1,0 +1,13 @@
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- macOS ---
+.DS_Store
+
+# --- Logs ---
+*.log
+
+# --- Environment / Config Secrets ---
+*.env
+.env.*
