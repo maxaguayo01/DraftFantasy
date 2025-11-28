@@ -13,10 +13,7 @@ st.set_page_config(page_title="Fantasy Fantasy Simulator", layout="wide")
 
 @st.cache_data
 def load_data():
-    """
-    Carga los datos desde tu CSV local.
-    Asegúrate de que la ruta sea correcta relativa a este script.
-    """
+    """Carga y prepara los datos desde el CSV"""
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     # Ajusta esta ruta si tu archivo está en otro lugar
     CSV_PATH = os.path.join(BASE_DIR, "../../data/processed/df_draft_players.csv")
